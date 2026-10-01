@@ -66,6 +66,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className="bg-x7z2k1 text-xf5q9m9 scroll-smooth">
       <head>
+        <meta name="yandex-verification" content="8f6c62a22240f427" />
         <meta charSet="utf-8" />
         <link rel="canonical" href="https://bezdepcasino2.vercel.app/" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
